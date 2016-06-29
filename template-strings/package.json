@@ -1,0 +1,19 @@
+{
+  "name": "es6-learning",
+  "version": "1.0.0",
+  "description": "es6-learning",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src -d output"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/monsteronfire/es6-learning"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.10.1",
+    "babel-preset-es2015": "^6.9.0"
+  }
+}
