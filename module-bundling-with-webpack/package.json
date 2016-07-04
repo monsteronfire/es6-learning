@@ -1,0 +1,20 @@
+{
+  "name": "module-bundling-with-webpack",
+  "version": "1.0.0",
+  "description": "module bundling with webpack -- es6-learning",
+  "main": "main.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/monsteronfire/es6-learning"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "buble": "^0.12.3",
+    "buble-loader": "^0.2.1",
+    "webpack": "^2.1.0-beta.15"
+  }
+}
